@@ -1,0 +1,4 @@
+﻿  CPPInterpeter.cpp
+C:\Users\Ilya\source\repos\CPPInterpeter\CPPInterpeter\CPPInterpeter.cpp(396,29): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Ilya\source\repos\CPPInterpeter\CPPInterpeter\CPPInterpeter.cpp(509,20): warning C4018:  <: несоответствие типов со знаком и без знака
+  CPPInterpeter.vcxproj -> C:\Users\Ilya\source\repos\CPPInterpeter\Debug\CPPInterpeter.exe
